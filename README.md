@@ -1,10 +1,10 @@
 # Homework5
 
 **Deployed application URL**
-https://talkingskunk.github.io/homework5-dayPlanner/
+https://talkingskunk.github.io/dayPlanner/
 
 **GitHub Repository URL**
-https://github.com/TalkingSkunk/homework5-dayPlanner
+https://github.com/TalkingSkunk/dayPlanner
 
 
 ## Table of Contents
